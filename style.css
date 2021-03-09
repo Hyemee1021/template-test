@@ -1,0 +1,9 @@
+html {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-height: 100vh;
+} /*make a template I can always start with this
+, even context is nt big enough to display 
+the whole screen, I set it as min-height*/
